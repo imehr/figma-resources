@@ -42,6 +42,13 @@ Selection of resources to learn Figma
 ## Design System
 
 
+## Figma api
+- [Introducing: Figma’s Platform](https://blog.figma.com/introducing-figmas-platform-ee681bf861e7)
+
+## Tools built with for Figma 
+
+- [Relay for Figma](https://relayforfigma.com/)
+- [Using Figma designs to build the Octicons icon library](https://blog.github.com/2018-04-12-driving-changes-from-designs/)
 
 ## Figma tips
 
@@ -57,7 +64,7 @@ Selection of resources to learn Figma
 
 ### Using Figma as a dashboard
 
-
+### Large format print template
 
 ## Where to ask questions
 
